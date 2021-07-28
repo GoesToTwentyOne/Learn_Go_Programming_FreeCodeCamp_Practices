@@ -34,4 +34,13 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - Untype constant
     - Enumerated constant
     - Enumerated expression
-    
+
+- [x] Composite data types/Aggregate data types/Collection data types
+    - [x] Array
+        - creations
+        - built in func
+        - work with arrays
+    - [x] Slice
+        - creations
+        - built in func
+        - work with slice
