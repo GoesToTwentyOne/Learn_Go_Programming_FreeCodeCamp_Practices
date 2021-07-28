@@ -28,3 +28,10 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
         - complex numbers
     - Test types
         - string[literals]
+- [x] Constant
+    - Naming convention
+    - Typed constant
+    - Untype constant
+    - Enumerated constant
+    - Enumerated expression
+    
