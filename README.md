@@ -55,4 +55,10 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
         - Embedding types
         - Naming convention
         - Tags
+- [x] Statements
+    - [x] if statements
+    - [x] switch statements
+    - [x] fallthroug
+    - [x] special type switch
+
         
