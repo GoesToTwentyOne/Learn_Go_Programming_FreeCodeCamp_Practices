@@ -1,0 +1,35 @@
+# Primitive Data Types
+- [x] Numeric  data types
+    - [x] Integer
+        - signed int
+        -  usigned int
+        - Operations 
+            -  add,sum,mul,div,remider,bit shipting,bitwise operation
+        - [x] zero values is 0.
+- [x] don't mix the same family type(int32+int64) doesn't work
+    - [x] Floating point
+        - based on IEE-754 standard
+        - [x] zero values is 0.
+        - version 32,64
+        - [x] literal style support{decimal (3.79)  exponential(18e18 0r 18E18) mixed(3.79e12))}
+        - Operations 
+            - add,sum,mul,div
+    - [x] Complex data types
+        - [x] zero values is (0+0i)
+        - version 64,128
+        - [x] built-in function
+            - make complex numbers with two float numbers   complex(real num , imgin num)
+            - get real part as float real()
+            - get imaginary part as float imag()
+            - Operations 
+            - add,sum,mul,div
+        - [x] Text types
+            - [x] strings 
+                - UTF8
+                - collenction of bytes {byte alias of uint8}
+                - immutable
+            - [x] Rune
+                - UTF-32
+                - alias of int-32
+
+            
