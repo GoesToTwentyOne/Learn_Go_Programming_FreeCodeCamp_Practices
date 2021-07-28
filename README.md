@@ -19,3 +19,12 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - [x] Visibility
     - [x] Naming convention
     - [x] Type conversions
+
+- [x] Primitive Data Types
+    - Boolean types
+    -  Numeric types
+        - integers
+        - floating point
+        - complex numbers
+    - Test types
+        - string[literals]
