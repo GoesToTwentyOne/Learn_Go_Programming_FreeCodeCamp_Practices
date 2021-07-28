@@ -1,0 +1,13 @@
+# Constant types
+-[x] Immutable,but can be shadowed
+- [x] Replace by compiler at the compile time
+    - values must be calculate at the compile time
+- [x] Naming convention like variable
+- [x] Typed constant work like immutable variables
+    - can interoprate only with same type.
+- [x] Untyped constant work like literals
+    - can interoprate with similar types
+- [x] Enumerated constant
+- [x] Enumerated expression
+    - opperation can be occured at the compile time
+    - add,sum,mul,div,remider,bit shipting,bitwise operation
