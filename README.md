@@ -44,3 +44,15 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
         - creations
         - built in func
         - work with slice
+    - [x] Maps
+        - what are they?
+        - creations
+        - Manipulation
+    - [x] Struct 
+        - what are they?
+        - creations
+        - Manipulation
+        - Embedding types
+        - Naming convention
+        - Tags
+        
