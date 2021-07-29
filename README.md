@@ -65,5 +65,6 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - [x] simple loop
     - [x] exiting early
     - [x] looping through collection
+- [x] Panic,Recover,Deffer
 
         
