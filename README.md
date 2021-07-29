@@ -79,6 +79,14 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
 - anonymous function
 - function as a type [golang]
 - methods [special receiver type]
+- [x] Interface
+    - what is interface?
+    - composing interface
+    - type conversion
+    - empty interface
+    - type switches
+    - impimenting with value va pointer [method sets]
+    - best practices
 
 
         
