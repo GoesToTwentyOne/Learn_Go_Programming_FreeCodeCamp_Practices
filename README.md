@@ -93,6 +93,14 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - mutex
     - paralallelism
     - best practices
+- [x] Channels
+    - creation of channels
+    - restracting data folow
+    - buffered and unbuffered channels
+    -  directional and bidirectional channels
+    - closing channels
+    -  for clause with channels
+    -  select channels
 
 
         
