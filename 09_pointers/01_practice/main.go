@@ -18,11 +18,11 @@ func main() {
 		age  int
 	}
 	//process 1
-	var p1 *person
-	p1 = new(person)
-	(*p1).name = "Setaelo"
-	(*p1).age = 21
-	fmt.Println(p1)
+	// var p1 *person
+	// p1 = new(person)
+	// (*p1).name = "Setaelo"
+	// (*p1).age = 21
+	// fmt.Println(p1)
 
 	p2 := &person{name: "Nihad", age: 21}
 	fmt.Println(p2)

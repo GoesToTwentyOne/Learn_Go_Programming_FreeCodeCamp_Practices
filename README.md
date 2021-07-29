@@ -72,6 +72,13 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
 - new function
 - working with nil
 - type with internal pointers
+- [x] Function 
+- basic syntax
+- prameters
+- return values
+- anonymous function
+- function as a type [golang]
+- methods [special receiver type]
 
 
         
