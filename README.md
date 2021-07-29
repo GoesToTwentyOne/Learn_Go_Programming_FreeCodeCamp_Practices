@@ -61,7 +61,7 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - [x] fallthroug
     - [x] special type switch
     - [x] Statements
-- [x] if Looping
+- [x] Looping
     - [x] simple loop
     - [x] exiting early
     - [x] looping through collection
