@@ -66,5 +66,12 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - [x] exiting early
     - [x] looping through collection
 - [x] Panic,Recover,Defer
+- [x] Pointers
+- creating pointers
+- dereferencing pointers
+- new function
+- working with nil
+- type with internal pointers
+
 
         
