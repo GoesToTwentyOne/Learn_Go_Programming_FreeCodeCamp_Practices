@@ -1,14 +1,14 @@
-# Deffer,Panic,Recover
-- [x] deffer
+# defer,Panic,Recover
+- [x] defer
     - used to delay execution of a statements until function exist
     - be careful in loops
     - runs in LIFO order LIFO(Last In First Out)
-    - argumnt evaluated at the time deffer is execute,not at time of  called function execution
+    - argumnt evaluated at the time defer is execute,not at time of  called function execution
 - [x] panic
     - occured when program cannot continue at all
     - function will stop executing 
-    -  but deffer func still fire [executute]
+    -  but defer func still fire [executute]
     - if nothing handle panic program will exit
 - [x] recover
     - used for recover from panic
-    - only useful in defferd function
+    - only useful in deferd function
