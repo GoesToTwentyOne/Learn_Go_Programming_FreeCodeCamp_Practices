@@ -87,6 +87,12 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
     - type switches
     - impimenting with value va pointer [method sets]
     - best practices
+- [x] Goroutines
+    - creating go routines
+    - waitgroups
+    - mutex
+    - paralallelism
+    - best practices
 
 
         
