@@ -1,0 +1,11 @@
+# Interface
+- [x] simple interface
+- [x] type switch
+- [x] empty interface
+- [x] method set
+- [x] best practices
+    - use many small interface
+    - single method interface are some of the most powerful and flexible
+    - don't need to import type interface
+    - do export interface for types that will be used package
+    - function and can received interface
